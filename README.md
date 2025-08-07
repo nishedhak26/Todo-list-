@@ -1,6 +1,3 @@
-# Todo-list-
-Simple To-Do List App using HTML, CSS, JavaScript
-
 # 📝 Enhanced To-Do List App
 
 A simple, beautiful, and interactive to-do list web application made with HTML, CSS, and JavaScript.
